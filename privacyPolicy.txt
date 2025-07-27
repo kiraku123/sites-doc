@@ -1,0 +1,39 @@
+Privacy Policy
+This privacy policy applies to all mobile applications provided by ZISO LAB (hereby referred to as the "Service Provider"). These applications may be offered as Free, Freemium, Ad-Supported, or Commercial services and are intended for use "AS IS".
+Information Collection and Use
+The Service Provider collects information when you download and use its applications. This information may include, but is not limited to:
+ • Your device's Internet Protocol address (e.g. IP address)
+ • The pages or screens of the application that you visit, the time and date of your visit, the time spent on those pages
+ • The operating system used on your mobile device
+ • General usage statistics and behavior
+The applications do not collect precise location data of your mobile device.
+The Service Provider may use the collected information to contact you with important information, notices, and marketing communications.
+To provide and improve its services, the Service Provider may request personally identifiable information including (but not limited to): Advertising ID, IP address, device ID, and usage history. Such data is stored and used in accordance with this privacy policy.
+Third-Party Access
+Only aggregated, anonymized data may be shared with third-party services for purposes of analytics, performance monitoring, or service improvement. These third parties are bound by their own privacy policies and may include:
+ • Google Play Services
+ • AdMob
+ • Google Analytics for Firebase
+ • Firebase Crashlytics
+ • Expo
+Disclosure of Information
+The Service Provider may disclose User Provided and Automatically Collected Information:
+ • As required by law (e.g., to comply with a subpoena or legal process)
+ • When disclosure is necessary to protect rights, ensure user safety, investigate fraud, or respond to government requests
+ • To trusted service providers working on behalf of the Service Provider who adhere to this privacy policy
+Opt-Out Rights
+You may stop all collection of information by uninstalling the application. Standard uninstall procedures via your mobile device or app marketplace apply.
+Data Retention Policy
+The Service Provider retains user data for as long as necessary to provide the application and for a reasonable time thereafter. To request deletion of your data, contact us at zisoulab123@gmail.com.
+Children
+The applications are not intended for use by children under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13. If such data is discovered, it will be deleted immediately. Parents or guardians may contact us for necessary actions.
+Security
+The Service Provider takes the security of your information seriously and uses physical, electronic, and administrative measures to safeguard data.
+Changes
+This Privacy Policy may be updated periodically. Updates will be posted on this page. Continued use of the applications indicates acceptance of the changes.
+Effective Date: 2025-05-05
+Your Consent
+By using the applications provided by ZISO LAB, you consent to the collection and use of your information as outlined in this Privacy Policy.
+Contact Us
+If you have any questions about this Privacy Policy or data handling, please contact us at: zisoulab123@gmail.com
+This privacy policy was generated and customized using the App Privacy Policy Generator.
